@@ -42,21 +42,32 @@ I am a **PhD scholar** at *Gujarat Biotechnology University (GBU)* specializing 
 <table border="0" bgcolor="#000000">
   <tr>
     <td width="55%" valign="top">
-      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Simulation','Docking','Python/Logic','Bioinformatics','DevOps','Drug_Design'],datasets:[{label:'Proficiency',data:[95,90,88,85,78,92],fill:true,backgroundColor:'rgba(20,184,166,0.15)',borderColor:'rgb(20,184,166)',pointBackgroundColor:'rgb(20,184,166)',pointRadius:3}]},options:{legend:{display:false},scale:{gridLines:{color:'rgba(255,255,255,0.05)'},angleLines:{color:'rgba(255,255,255,0.05)'},pointLabels:{fontSize:12,fontColor:'rgb(148,163,184)'},ticks:{display:false}}}}" width="100%" />
+      <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Simulation','Docking','Python/Logic','Bioinformatics','DevOps','Drug_Design'],datasets:[{label:'Core_Bio',data:[95,90,80,85,60,92],fill:true,backgroundColor:'rgba(20,184,166,0.2)',borderColor:'rgb(20,184,166)',pointBackgroundColor:'rgb(20,184,166)',pointRadius:3},{label:'Digital_Logic',data:[60,70,95,75,85,70],fill:true,backgroundColor:'rgba(245,158,11,0.1)',borderColor:'rgb(245,158,11)',pointBackgroundColor:'rgb(245,158,11)',pointRadius:3}]},options:{legend:{display:false},scale:{gridLines:{color:'rgba(255,255,255,0.05)'},angleLines:{color:'rgba(255,255,255,0.05)'},pointLabels:{fontSize:12,fontColor:'rgb(148,163,184)'},ticks:{display:false}}}}" width="100%" />
     </td>
     <td width="45%" valign="center">
       <div align="left">
         <h4 style="color:#14b8a6">Molecular Intelligence</h4>
-        <code>GROMACS</code> <code>Desmond</code> <code>Schrödinger</code><br/>
-        <code>MDAnalysis</code> <code>ePharmacophore</code> <code>ADMET</code>
+        <img src="https://img.shields.io/badge/GROMACS-266c9e?style=flat-square" />
+        <img src="https://img.shields.io/badge/Desmond-135cc2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Schrödinger-083b82?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/MDAnalysis-f7903b?style=flat-square" />
+        <img src="https://img.shields.io/badge/ePharmacophore-34d9b2?style=flat-square" />
+        <img src="https://img.shields.io/badge/ADMET-169118?style=flat-square" />
         <br/><br/>
         <h4 style="color:#f59e0b">System Architecture</h4>
-        <code>Python</code> <code>SnakeMake</code> <code>Docker</code><br/>
-        <code>Linux (Garuda/Mint)</code> <code>Anaconda</code> <code>Git</code>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SnakeMake-109477?style=flat-square" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
         <br/><br/>
-        <h4 style="color:#14b8a6">Applied Logic</h4>
-        <code>Machine Learning</code> <code>HTML5</code> <code>Java</code><br/>
-        <code>VS Code</code> <code>Steered MD</code>
+        <h4 style="color:#7928CA">Applied Logic</h4>
+        <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
       </div>
     </td>
   </tr>
@@ -64,20 +75,17 @@ I am a **PhD scholar** at *Gujarat Biotechnology University (GBU)* specializing 
 
 ---
 
-**ACCESS LOGS:** <img src="https://hits.dwyl.com/vedasoham/vedasoham.svg?style=flat-square&color=14b8a6" /> 
-<br/>
+### Collaboration
+Open to structural biology and bioinformatics synergy.
 
----
+### Contact me
 
-### Digital Connectivity
-
-**Institutional:** Gujarat Biotechnology University (GBU)
-
-**Collaboration:** Open to structural biology and bioinformatics partnerships.
+**Institution:** Gujarat Biotechnology University (GBU), GIFT City, Gandhinagar, Gujarat, India.
 
 **Contact:** `thedrsoham[at]gmail[dot]com`
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedasoham&theme=tokyonight&hide_border=true&background=000000&sideNums=14b8a6&stroke=14b8a6&fire=f59e0b" alt="GitHub Streak" />
+
 ---
 
 *"Not the end, but the beginning of a mission."*
