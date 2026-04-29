@@ -16,29 +16,6 @@ I am a **PhD scholar** at *Gujarat Biotechnology University (GBU)* specializing 
 
 ---
 
-### Topographic Activity Scan
-3D Isometric rendering of laboratory productivity.
-<img src="https://raw.githubusercontent.com/vedasoham/vedasoham/main/profile-3d-contrib/profile-night-green.svg" width="100%" />
-
----
-
-### Multi-Year Laboratory Activity Scan
-*A topographic timeline of research productivity from 2023 to Present.*
-
-#### 2026: Present Mission
-<img src="https://raw.githubusercontent.com/vedasoham/vedasoham/main/profile-2026/profile-night-green.svg" width="100%" />
-
-#### 2025: Intensive Development
-<img src="https://raw.githubusercontent.com/vedasoham/vedasoham/main/profile-2025/profile-night-green.svg" width="100%" />
-
-#### 2024: Foundational Phase
-<img src="https://raw.githubusercontent.com/vedasoham/vedasoham/main/profile-2024/profile-night-green.svg" width="100%" />
-
-#### 2023: Project Initiation
-<img src="https://raw.githubusercontent.com/vedasoham/vedasoham/main/profile-2023/profile-night-green.svg" width="100%" />
-
----
-
 ### Projects
 
 **[DTDP](https://github.com/vedasoham/DTDP-DrugTarget_DiscoveryPipeline)** – An end-to-end automated pipeline for high-throughput identification of druggable bacterial targets.
