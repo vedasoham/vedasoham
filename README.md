@@ -17,20 +17,35 @@ I am a **PhD scholar** at *Gujarat Biotechnology University (GBU)* specializing 
 ---
 
 ### Projects
+</div>
 
-**[DTDP](https://github.com/vedasoham/DTDP-DrugTarget_DiscoveryPipeline)** – An end-to-end automated pipeline for high-throughput identification of druggable bacterial targets.
+#### Active Research & Bio-Discovery
+**[DTDP](https://github.com/vedasoham/DTDP-DrugTarget_DiscoveryPipeline)** A Linux-native pipeline for multi-drug resistance (MDR) research. Integrates comparative genomics and AlphaFold structural data to pinpoint clinically essential targets.
 
-**[GUI_UniDock](https://github.com/vedasoham/GUI_unidock)** – A GPU-accelerated interface for Uni-Dock, significantly reducing the barrier to massive-scale virtual screening.
+**[NirA_DeepDocking](https://github.com/vedasoham/NirA_DeepDocking)** Deep learning platform for screening phytochemical libraries against the NirA enzyme. Leverages neural network scoring to filter 9M+ compounds with surgical precision.
 
-**[NirA_DeepDocking](https://github.com/vedasoham/NirA_DeepDocking)** – Implementation of DL-guided docking protocols for the discovery of novel NirA protein inhibitors.
+#### Laboratory usage (GUI Tools)
+**[GUI_UniDock](https://github.com/vedasoham/GUI_unidock)** Accelerates virtual screening by 2000x using NVIDIA GPU power. Simplifies complex docking telemetry into an intuitive visual console for massive-scale ligand prioritization.
 
-**[Bhajan_Schedular](https://github.com/vedasoham/Bhajan_Schedular)** – An organizational logic tool designed for streamlined scheduling and mission-critical task management.
+**[BLAST_Suite_X](https://github.com/vedasoham/Blast_Suite_X)** Sci-Fi inspired GUI for NCBI BLAST+ that abstracts away command-line complexity. Features multithreaded alignment tracking and interactive sequence hit analysis.
+
+**[Bhajan_Schedular](https://github.com/vedasoham/Bhajan_Schedular)** A mission-critical task management tool built with organizational logic. Designed for high-efficiency scheduling and database management.
+
+---
+<div align="center">
+
+### Sequence Assembly (Contribution Game)
+The snake eats my daily contributions to "fold" new code sequences.
+![Snake animation](https://github.com/vedasoham/vedasoham/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### Sequence Assembly (Contribution Game)
-*The snake eats my daily contributions to "fold" new code sequences.*
-![Snake animation](https://github.com/vedasoham/vedasoham/blob/output/github-contribution-grid-snake.svg)
+### Mission Parameters
+**Current Focus:** *De novo* protein therapeutics & Generative design.
+
+**Command Center:** Gujarat Biotechnology University (GBU), GIFT City, Gujarat, India.
+
+**Operational Goal:** Bridging the gap between manual labour, structural biology and automation.
 
 ---
 
@@ -47,12 +62,12 @@ I am a **PhD scholar** at *Gujarat Biotechnology University (GBU)* specializing 
     <td width="45%" valign="center">
       <div align="left">
         <h4 style="color:#14b8a6">Molecular Intelligence</h4>
-        <img src="https://img.shields.io/badge/GROMACS-266c9e?style=flat-square" />
-        <img src="https://img.shields.io/badge/Desmond-135cc2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Schrödinger-083b82?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/MDAnalysis-f7903b?style=flat-square" />
-        <img src="https://img.shields.io/badge/ePharmacophore-34d9b2?style=flat-square" />
-        <img src="https://img.shields.io/badge/ADMET-169118?style=flat-square" />
+        <img src="https://img.shields.io/badge/GROMACS-14b8a6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Desmond-14b8a6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Schrödinger-14b8a6?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/MDAnalysis-14b8a6?style=flat-square" />
+        <img src="https://img.shields.io/badge/ePharmacophore-14b8a6?style=flat-square" />
+        <img src="https://img.shields.io/badge/ADMET-14b8a6?style=flat-square" />
         <br/><br/>
         <h4 style="color:#f59e0b">System Architecture</h4>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
